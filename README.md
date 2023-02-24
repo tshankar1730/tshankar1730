@@ -7,7 +7,7 @@
 
 ## About me
 
-Hi, I'm Shankar. You might recognize me as GitHub's most powerful spatial analyst.
+Hi, I'm Shankar.
 
 
 <details>
